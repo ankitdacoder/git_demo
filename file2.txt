@@ -1,2 +1,4 @@
 file 2 added
+line added by feature-3
+
 line added feature-4
